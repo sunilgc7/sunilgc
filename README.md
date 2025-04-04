@@ -4,7 +4,7 @@
 
 📍 Fargo, ND, United States  
 📫 Email: sgc908@gmail.com | LinkedIn: [sgc445](https://www.linkedin.com/in/sgc445) | GitHub: [sunilgc7](https://github.com/sunilgc7)  
-🌐 Personal Website: [kharbari.com](https://kharbari.com) | ORCID: [0000-0002-4653-7618](https://orcid.org/0000-0002-4653-7618)
+🌐 Personal Website:| ORCID: [0000-0002-4653-7618](https://orcid.org/0000-0002-4653-7618)
 
 ---
 
