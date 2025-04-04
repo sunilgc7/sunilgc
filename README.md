@@ -47,8 +47,7 @@ I possess both academic and industrial research experience in software engineeri
 ---
 
 ## 📚 **Peer-reviewed Publications**
-1. **Weed Species Classification Using Deep Learning Technologies** – *Artificial Intelligence in Agriculture (2022)* ([Read More](https://doi.org/10.1016/j.aiia.2022.11.001))  
-2. **Freeze Damage Quantification Using Deep Learning Segmentation** – *Computers and Electronics in Agriculture (2025)* ([Read More](https://doi.org/10.1016/j.compag.2024.109734))  
+1. **Weed Species Classification Using Deep Learning Technologies** – *Artificial Intelligence in Agriculture (2022)* ([Read More](https://doi.org/10.1016/j.aiia.2022.11.001))    
 
 🔗 View all publications on [ORCID](https://orcid.org/0000-0002-4653-7618).
 
